@@ -25,7 +25,7 @@ The purpose of examining trip duration by gender is to gain a more granular unde
 
 We can see that the ride duration distribution by gender is consistent with the overall ride duration distribution with males comprise approximately 50-65% of total rides between 1 and 35 minutes. This is consistent with expectations given their higher overall usage of the service. What is notable though is the gender divide generally disappears for rides lasting over 45 minutes. While these rides make up a small share of overall rides, they potentially make up a good portion of the firm’s revenue. This could indicate that men use the bike share service for short commutes to and from the office, but for longer rides (probably tourism related), male and female behavior is similar.  
 
-![Trip duration by gender](https://user-images.githubusercontent.com/100163289/172882560-9725e27a-b5d8-49d7-96c2-dc69ca90bf5e.png)
+![Ride duration by gender](https://user-images.githubusercontent.com/100163289/172885210-9940f8ee-8948-421a-99f9-da5c6d58e6a3.png)
 
 ### Trips by Weekday and Hour
 The purpose of examining the number of rides per weekday by hour is to gain a better understanding of when the bikes are most used. This will allow the friends to determine the best time to scheduled maintenance and reposition the bikes, as well as gain a better understanding on how people use the bikes for their transportation needs. 
