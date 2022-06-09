@@ -34,6 +34,9 @@ We know that males make up 65.28% of all riders while females comprise 25.1% wit
 ![Tripbs by Weekday and Gender](https://user-images.githubusercontent.com/100163289/172874404-2a18e3a7-8363-46fc-8e7a-039f3dd908db.png)
 
 ### Trips by Weekday, Hour, Gender, and Subscriber Status
+The purpose of examining the number of rides per weekday by hour, gender, and subscriber status is to further understand the customer base. By examining the chart, we can see that non-subscriber renters make up a very small percentage of the overall customer base. The business is heavily reliant on male subscriber who use the bikes to commute to and from work. This is a key insight as if this demographic does not exist in Des Moines, then the likelihood of the friend’s business being successful is very low.
+
+![Trips by Gender, Subscriber Status, and Weekday](https://user-images.githubusercontent.com/100163289/172876263-94c4564d-d266-4a92-ab82-e62281b8b3b8.png)
 
 ### Top Start and Stop Points
 By examining the top starting and ending points of rides, we can gain a better understanding of how customers are using the bikes. The previous analysis focused on time and date of the rides, but these maps will give us an understanding about both what the customers are doing (going to work or to tourist areas) and to get a better understanding about the supply and demand. Comparing the two charts will also help us understand if supply is well matched with demand. It will also give the friends a good idea on which type of neighborhoods they should focus on first when starting the Des Moines bikes share program.
