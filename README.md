@@ -14,8 +14,18 @@ Additionally, I included two additional charts which analyze top start and stop 
 ## Results:
 
 ### Ride Duration
+The purpose of examining trip duration is to determine how customers are using the bikes. Trip duration will also inform the maintenance schedule, how far bike docking stations should be located away from each other and, among other things, the profitability per ride. 
+
+We can see that the vast majority of rides are less than 20 minutes, with the largest number of rides lasting only 6 minutes. From this, we can glen that people are likely to use the program for distances that are over a mile away but less than three. This is a key insight for the friends as they determine the potential demand for a similar bike share service in Des Moines. They also need to consider if trips above one mile might be more easily made in a car than a similar trip in New York would be. 
+
+![Trip Duration](https://user-images.githubusercontent.com/100163289/172881407-b4e9b843-174a-4750-ab82-1fb2dab39424.png)
 
 ### Ride Duration by Gender
+The purpose of examining trip duration by gender is to gain a more granular understanding of how men and women differ in their usage of the city bike program.    
+
+We can see that the ride duration distribution by gender is consistent with the overall ride duration distribution with males comprise approximately 50-65% of total rides between 1 and 35 minutes. This is consistent with expectations given their higher overall usage of the service. What is notable though is the gender divide generally disappears for rides lasting over 45 minutes. While these rides make up a small share of overall rides, they potentially make up a good portion of the firm’s revenue. This could indicate that men use the bike share service for short commutes to and from the office, but for longer rides (probably tourism related), male and female behavior is similar.  
+
+![Trip duration by gender](https://user-images.githubusercontent.com/100163289/172882560-9725e27a-b5d8-49d7-96c2-dc69ca90bf5e.png)
 
 ### Trips by Weekday and Hour
 The purpose of examining the number of rides per weekday by hour is to gain a better understanding of when the bikes are most used. This will allow the friends to determine the best time to scheduled maintenance and reposition the bikes, as well as gain a better understanding on how people use the bikes for their transportation needs. 
