@@ -9,7 +9,7 @@ The purpose of the analysis is to identify trends inside a month’s worth of bi
 - trips by weekday by hour and gender
 - trips by weekday by hour by gender and whether the rider is a subscriber or not. 
 
-Additionally, I included two additional charts which analyze top start and stop points and bike utilization. This will provide some idea as to how many bikes might be required to replicate the project in Des Moines. The presentation can be viewed at https://public.tableau.com/app/profile/arnold.felix.kaluza/viz/NYCBikeshare_16547400605290/NYCBikeRideshare?publish=yes 
+Additionally, I included two additional charts which analyze top start and stop points and bike utilization. This will provide some idea as to how many bikes might be required to replicate the project in Des Moines. The presentation can be viewed [here](https://public.tableau.com/app/profile/arnold.felix.kaluza/viz/NYCBikeshare_16547400605290/NYCBikeRideshare?publish=yes ).
 
 ## Results:
 
