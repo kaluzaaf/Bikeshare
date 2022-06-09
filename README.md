@@ -51,8 +51,10 @@ We can see that bike usage follows are pretty uniformed distribution where appro
 ![Bike Utlilization](https://user-images.githubusercontent.com/100163289/172752995-1c550c2e-02d9-4e8d-95d1-705b7f4f5e49.png)
 
 ## Summary:
+The friends will need to do their market research to determine if the business can be replicated in Des Moines, but the presentation can inform them on areas they should examine first. The most important question to answer is if Des Moines is conducive to commuting via bicycle. Weather, traffic patterns, distance between commercial districts and residential areas, and topography all will play a part in determining if this is the case or not. 
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
-Topography Analysis
-Points of Intrest Overalay
+Two additional analysis the friends should conduct is an analysis of topography in New York vs the most popular starting and stopping points. This can help inform them of how terrain impacts the bike share program. I would also want to examine the bike share data for different time periods to determine bike usage for commuting during cold weather or off-peak tourist seasons. This would provide a fuller understanding of the elasticity of demand for the bike share program other times of the year. 
+
+Overall, the friends have a good start to their project and have a visually appealing presentation for potential investors. 
+
 
