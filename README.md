@@ -18,6 +18,13 @@ Additionally, I included two additional charts which analyze top start and stop 
 ### Ride Duration by Gender
 
 ### Trips by Weekday and Hour
+The purpose of examining the number of rides per weekday by hour is to gain a better understanding of when the bikes are most used. This will allow the friends to determine the best time to scheduled maintenance and reposition the bikes, as well as gain a better understanding on how people use the bikes for their transportation needs. 
+
+We see there is a significant uptick in bike usage between 8am to 9 am and 4 pm to 7 pm on weekdays and from 10 am to 6 pm on Saturdays. We can draw the conclusion that many people rely on the bikes for their commute to their jobs during the week and rely on them to get around throughout the day on the weekends. 
+
+This will be an important insight for the friends to keep in mind as they prepare their pitch, the investors will undoubtably ask what the friends can tell them about their target customer. It can also inform the friends about the viability of such a program in Des Moines. They need to answer the question if the city is conducive to commuting to and from work via bicycle. 
+
+![Trips by Weekday (hour)](https://user-images.githubusercontent.com/100163289/172859081-929ef401-ff8b-4837-8d8e-0394efc6fcfc.png)
 
 ### Trips by Weekday, Hour, and Gender
 
