@@ -27,6 +27,11 @@ This will be an important insight for the friends to keep in mind as they prepar
 ![Trips by Weekday (hour)](https://user-images.githubusercontent.com/100163289/172859081-929ef401-ff8b-4837-8d8e-0394efc6fcfc.png)
 
 ### Trips by Weekday, Hour, and Gender
+The purpose of examining the number of rides per weekday by hour by gender is to gain an even more granular understanding of when and who are using the bikes. This will allow the friends to better determine their most likely customers. This will also allow them to tailor advertising that will be critical to quickly building a solid customer base to make the business a going concern.  
+
+We know that males make up 65.28% of all riders while females comprise 25.1% with the remaining 9.62% being unknown. Examining the data, it appears males are much more likely to use the bikes to commute to work as would be expected given their higher use of the service. The overall dispersion of rides is similar with females making up a smaller but elevated number of riders during peak commuting hours during the week and during the day on weekends. 
+
+![Tripbs by Weekday and Gender](https://user-images.githubusercontent.com/100163289/172874404-2a18e3a7-8363-46fc-8e7a-039f3dd908db.png)
 
 ### Trips by Weekday, Hour, Gender, and Subscriber Status
 
